@@ -1,2 +1,2 @@
 # hi-world
-test project
+test project tutorial for git
